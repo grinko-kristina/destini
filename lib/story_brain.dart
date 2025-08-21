@@ -45,5 +45,5 @@ class StoryBrain {
   String getChoice2() {
     return _storyData[0].choice2;
   }
-
+  int storyNumber = 0;
 }
